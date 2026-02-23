@@ -198,4 +198,5 @@ XLA: Optimizing Compiler for TensorFlow
 [Add your license here]
 
 👤 Author
-[Your name/organization]
+Deepthi V J
+Joshua Jose
